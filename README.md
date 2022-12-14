@@ -8,3 +8,4 @@
 - :book: Fun fact: I like to read and I play the electric guitar ! 
 
 [![Github Streak](https://streak-stats.demolab.com/?user=TheresaRoukaibe)](https://git.io/streak-stats)
+[![Theresa Roukaibe's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheresaRoukaibe)](https://github.com/anuraghazra/github-readme-stats)
